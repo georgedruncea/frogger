@@ -1,11 +1,9 @@
-git
+git instructions
 --------------------------
 
-git.init to create a git project
-create git repository
-add origin to the local repository
-  git remote add origin https://github.com/georgedruncea/frogger.git
-commit
-  git mmit -m "initial commit"
-push local code to github
-  git push origin master
+git init - to create a git project
+git add . - to add files
+got commit -m "initial commit" - to commit
+create github repository
+git remote add origin https://github.com/georgedruncea/frogger.git - add origin to the local repository
+git push origin master - push local code to github
